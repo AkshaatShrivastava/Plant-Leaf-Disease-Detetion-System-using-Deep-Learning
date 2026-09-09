@@ -1,1 +1,0 @@
-# Plant-Leaf-Disease-Detetion-System-using-Deep-Learning
