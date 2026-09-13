@@ -223,7 +223,7 @@ export default function App() {
               <Sprout size={24} />
             </div>
             <div className="brand-text">
-              <h1>Plant Disease Classification</h1>
+              <h1>Plant Disease Detection</h1>
               <p>Deep Learning Project</p>
             </div>
           </div>
@@ -240,13 +240,13 @@ export default function App() {
         <section className="hero-section">
           <div className="hero-pill">
             <Sprout size={15} />
-            <span>Plant Leaf Diagnosis</span>
+            <span>Plant Disease Detection</span>
           </div>
           <h2 className="hero-title">
-            Identify Plant Leaf Diseases with <span>Deep Learning</span>
+            Detect Plant Leaf Diseases with <span>Deep Learning</span>
           </h2>
           <p className="hero-subtitle">
-            Upload an image of a plant leaf to identify potential diseases using deep learning.
+            Upload a plant leaf image to identify the plant and its potential disease or health condition using deep learning.
           </p>
         </section>
 
